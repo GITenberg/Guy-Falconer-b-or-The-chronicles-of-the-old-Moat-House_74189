@@ -1,0 +1,32 @@
+_repo: Guy-Falconer-b-or-The-chronicles-of-the-old-Moat-House_74189
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guernsey, Lucy Ellen
+    aliases:
+    - Guernsey, Lucy E. (Lucy Ellen)
+    - L. E. G. (Lucy Ellen Guernsey)
+    - G., L. E. (Lucy Ellen Guernsey)
+    - LEG (Lucy Ellen Guernsey)
+    birthdate: 1826
+    deathdate: 1899
+    gutenberg_agent_id: '56141'
+    url: http://www.gutenberg.org/2009/agents/56141
+    wikipedia: https://en.wikipedia.org/wiki/Lucy_Ellen_Guernsey
+description: ''
+gutenberg_issued: '2024-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74189'
+language: en
+pgterms:marc905: 20240720134434guernsey
+pgterms:marc906: '1876'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bSunday School Union, $c1876.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Guy Falconer : $b or, The chronicles of the old Moat House'
+url: http://www.gutenberg.org/ebooks/74189
